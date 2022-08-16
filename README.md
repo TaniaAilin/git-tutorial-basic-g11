@@ -4,3 +4,6 @@ Este repositorio contiene los ejercicios para aprender control de versiones con 
 Esta linea representa el primer commit por interfaz web de repositorio remoto en github.com
 
 Esta linea representa el segundo commit por interfaz web de repositorio remoto en github.com
+
+
+Esta linean representa el primer commit por consola en  maquina virtual
