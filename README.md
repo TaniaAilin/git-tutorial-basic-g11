@@ -7,3 +7,6 @@ Esta linea representa el segundo commit por interfaz web de repositorio remoto e
 
 
 Esta linean representa el primer commit por consola en  maquina virtual
+
+
+Esta linea representa el primer commitcon interfaz visual
