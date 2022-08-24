@@ -10,3 +10,6 @@ Esta linean representa el primer commit por consola en  maquina virtual
 
 
 Esta linea representa el primer commitcon interfaz visual
+
+
+Esta linea representa el uso de SourceControl para manejo de repositorios con Visual Studio Code
